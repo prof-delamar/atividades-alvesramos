@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Secretaria Municipal da Educação - SEMED</titulo>
+        <subtitulo>Professor Delamar - Informática Pedagógica</subtitulo>
+        <logo>LogoNovoPrefeitura.png</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns! :)</correcto>
+        <incorrecto son="" modo="1" >Tente Novamente!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+              <imaxe>capa_edilim_(1).png</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>21</tipo>
+              <cabeceira>Escute a pronúncia das cores em Alemão</cabeceira>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+<modo>2</modo>
+              <galeria son="Weiß_–_branco.mp3" texto="WEIß">branco.png</galeria>
+              <galeria son="braun__-_marrom.mp3" texto="BRAUN">marrom.png</galeria>
+              <galeria son="Schwarz_–_preto.mp3" texto="SCHWARZ">preto.png</galeria>
+        </paxina>
+        <paxina id="3" >
+              <tipo>21</tipo>
+              <cabeceira>Escute a pronúncia das cores em Alemão</cabeceira>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+<modo>2</modo>
+              <galeria son="Grau_–_cinza.mp3" texto="GRAU">download_(1).png</galeria>
+              <galeria son="Orange_–_laranja.mp3" texto="ORANGE">download.png</galeria>
+              <galeria son="Rosa_–_rosa.mp3" texto="ROSA">rosa.png</galeria>
+        </paxina>
+        <paxina id="4" >
+              <tipo>21</tipo>
+              <cabeceira>Escute a pronúncia das cores em Alemão</cabeceira>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+<modo>2</modo>
+              <galeria son="alemao_amarelo.mp3" texto="GELB">tricoline-tricoline-lisa-amarelo-canario-100-algodao-valor-referente-a-50-cm-x-1-50-mt--p-1615231577782.jpg</galeria>
+              <galeria son="alemao_verde_-_gruun.mp3" texto="GRÜN">significado-cor-verde.jpg</galeria>
+              <galeria son="alemao_vermelho.mp3" texto="ROT">pp1238__22093.png</galeria>
+        </paxina>
+        <paxina id="5" >
+              <tipo>21</tipo>
+              <cabeceira>Escute a pronúncia das cores em Alemão</cabeceira>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+<modo>2</modo>
+              <galeria son="alemao_azul.mp3" texto="BLAU">azul.PNG</galeria>
+              <galeria son="Lila_–_roxo.mp3" texto="LILA">roxo.PNG</galeria>
+        </paxina>
+        <paxina id="6" >
+              <tipo>22</tipo>
+              <cabeceira>IDENTIFIQUE AS CORES ABAIXO</cabeceira>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+              <modo>4</modo>
+              <cousa nome="Blau" son="alemao_azul.mp3">azul.PNG</cousa>
+              <cousa nome="Weiß " son="Weiß_–_branco.mp3">branco.png</cousa>
+              <cousa nome="Grau " son="Grau_–_cinza.mp3">download_(1).png</cousa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>22</tipo>
+              <cabeceira>IDENTIFIQUE AS CORES ABAIXO</cabeceira>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+              <modo>4</modo>
+              <cousa nome="Orange" son="Orange_–_laranja.mp3">download.png</cousa>
+              <cousa nome="braun" son="braun__-_marrom.mp3">marrom.png</cousa>
+              <cousa nome="Rot " son="alemao_vermelho.mp3">pp1238__22093.png</cousa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>22</tipo>
+              <cabeceira>IDENTIFIQUE AS CORES ABAIXO</cabeceira>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+              <modo>4</modo>
+              <cousa nome="Schwarz" son="Schwarz_–_preto.mp3">preto.png</cousa>
+              <cousa nome="Rosa " son="Rosa_–_rosa.mp3">rosa.png</cousa>
+              <cousa nome="Lila " son="Lila_–_roxo.mp3">roxo.PNG</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>22</tipo>
+              <cabeceira>IDENTIFIQUE AS CORES ABAIXO</cabeceira>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+              <modo>4</modo>
+              <cousa nome="Grün " son="alemao_verde_-_gruun.mp3">significado-cor-verde.jpg</cousa>
+              <cousa nome="Gelb " son="alemao_amarelo.mp3">tricoline-tricoline-lisa-amarelo-canario-100-algodao-valor-referente-a-50-cm-x-1-50-mt--p-1615231577782.jpg</cousa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>16</tipo>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+              <externa><![CDATA[&lt;iframe style=&quot;max-width:100%&quot; src=&quot;https://wordwall.net/pt/embed/a51829eb98824a04893e19409c090358?themeId=45&amp;templateId=5&amp;fontStackId=0&quot; width=&quot;500&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;]]></externa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>39</tipo>
+              <cabeceira>JOGO DA MEMORIA</cabeceira>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+              <modo>1</modo>
+            <parellas imaxe="" texto="Blau ">azul.PNG</parellas>
+              <parellas imaxe="" texto="Weiß ">branco.png</parellas>
+              <parellas imaxe="" texto="Rosa ">rosa.png</parellas>
+              <parellas imaxe="" texto="Schwarz ">preto.png</parellas>
+              <parellas imaxe="" texto="Gelb ">tricoline-tricoline-lisa-amarelo-canario-100-algodao-valor-referente-a-50-cm-x-1-50-mt--p-1615231577782.jpg</parellas>
+              <parellas imaxe="" texto="Grün ">significado-cor-verde.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>46</tipo>
+              <cabeceira>IDENTIFIQUE AS CORES</cabeceira>
+              <pe>E.I.M. Bilingue Alves Ramos - 1° Ano - Alemão</pe>
+              <etiqueta texto="preto"  posy="6">Rot</etiqueta>
+              <etiqueta texto="branco"  posy="5">Blau </etiqueta>
+              <etiqueta texto="amarelo"  posy="4">Grün </etiqueta>
+              <etiqueta texto="verde"  posy="3">Gelb </etiqueta>
+              <etiqueta texto="azul"  posy="2">Weiß </etiqueta>
+              <etiqueta texto="vermelho"  posy="1">Schwarz </etiqueta>
+        </paxina>
+        <paxina id="13" >
+              <tipo>38</tipo>
+              <imaxe>94ced23a5f2b7e900d8a67c02c678ec6.jpg</imaxe>
+              <forma>2</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+    </libro>
+</lim>
